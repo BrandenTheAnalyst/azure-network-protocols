@@ -38,7 +38,7 @@ Through Microsoft Azure Cloud Computing, I am able to go into NSG(Network Securi
 <br />
 
 <p>
-<img src="blob:https://imgur.com/70738bfa-5bb2-4a7d-a774-797dbc0793e7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aHsW17t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
