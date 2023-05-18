@@ -38,7 +38,7 @@ Through Microsoft Azure Cloud Computing, I am able to go into NSG(Network Securi
 <br />
 
 <p>
-<img src="https://i.imgur.com/aHsW17t.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/6lIebvx" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In the above picture, I am currently inside of a VM from Microsoft Azure. I ran commands using Command Prompt using basic commands such as "ping 10.0.0.4" which is essentially me trying to ping another VM that is running Linux Ubuntu, then under the same Subnet inside of the same Virtual Network. I have also installed WireShark which is a tool that can be used to track certain protocol traffic such as the above picture. Inside of WireShark shows that ICMP traffic is being displayed.
